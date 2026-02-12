@@ -41,39 +41,83 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 2. SISTEMA DE REPRODUCTOR DE MÚSICA ---
     const songs = [
         {
-            title: "Angel",
-            artist: "Massive Attack",
+            title: "Fetish",
+            artist: "Selena Gomez",
             src: "song.mp3", 
-            lyrics: `Eres mi ángel
-                Bajaste del cielo
-                Para darme amor (para darme amor)
-                Sus ojos
-                Está en el lado oscuro
-                Neutraliza (a cada hombre que ve) a cada hombre que ve
-                Te amo, te amo, te amo, te amo
-                Te amo, te amo, te amo, te amo
-                Te amo, te amo, te amo, te amo
-                Te amo, te amo, te amo, te amo
-                Te amo, te amo, te amo, te amo
-                Te amo, te amo, te amo, te amo
-                Eres mi ángel (eres mi ángel)
-                Bajaste del cielo
-                Te amo, te amo, te amo, te amo
-                Te amo, te amo, te amo, te amo
-                Te amo, te amo, te amo, te amo
-                Te amo, te amo, te amo, te amo
-                Te amo, te amo, te amo, te amo`,
-            meaning: `¿Alguna vez has sentido que alguien te clava en el cerebro como un virus que no puedes borrar, y cada pensamiento tuyo gira alrededor de esa persona hasta que te consumes en una obsesión que te hace creer que es amor, pero en realidad te está chupando la vida gota a gota? ¿Cuántas noches has perdido el sueño imaginándola como un ángel caído, idealizándola tanto que ignoras el lado oscuro que te destroza, solo porque esa fijación te hace sentir algo, cualquier cosa, en un mundo que de otra forma se siente vacío?
+            lyrics: `Tómalo o déjalo
+                Cariño, tómalo o déjalo
+                Pero sé que no lo dejarás
+                Porque sé que lo necesitas (uh)
+                Mírate en el espejo
+                Cuando me miro en el espejo
+                Cariño, lo veo más claro
+                Por qué quieres estar más cerca (uh)
+                No me sorprende
+                Lo entiendo (ah)
+                No lo niego
+                Tu apetito (ah)
+                Tienes un fetiche por mi amor
+                Te alejo y vuelves de inmediato
+                No veo sentido en culparte (a ti)
+                Si fuera tú, también me haría lo mismo (a mí)
+                Tienes un fetiche por mi amor
+                Te alejo y vuelves de inmediato
+                No veo sentido en culparte (a ti)
+                Si fuera tú, también me haría lo mismo (a mí)
+                Tienes un fetiche por mi amor
+                Alcanzando tu límite
+                Dices que estás en tu límite
+                Vas más allá de tu límite
+                Pero sé que no puedes dejarlo (uh)
+                Algo en mí
+                Te tiene enganchado a mi cuerpo
+                Te llevo arriba y abajo y te doblo como origami (uh)
+                No me sorprende
+                Lo entiendo (ah)
+                No lo niego
+                Tu apetito (ah)
+                Tienes un fetiche por mi amor
+                Te alejo y vuelves de inmediato
+                No veo sentido en culparte (a ti)
+                Si fuera tú, también me haría lo mismo (a mí)
+                Tienes un un fetiche por mi amor
+                Te alejo y vuelves de inmediato
+                No veo sentido en culparte (a ti)
+                Si fuera tú, también me haría lo mismo (a mí)
+                (Es Gucci!)
+                Tienes un fetiche por mi amor
+                La forma en que caminas, la forma en que hablas
+                Te culpo porque todo es tu culpa
+                Juegas duro, no me apagues
+                Actúas rudo, pero sé que eres suave
+                Tú eres mi fetiche, estoy tan metido
+                Todos estos rumores que se esparcen
+                Mejor ve y azótalo
+                Porque dicen que ya lo hicimos
+                Llama a Gucci si alguna vez me necesitas
+                Estaré en South Beach en el descapotable brillando
+                Diamantes de agua, Aquafina
+                Solo te necesito en un bikini azul
+                Tienes un fetiche por mi amor
+                Te alejo y vuelves de inmediato
+                No veo sentido en culparte (a ti)
+                Si fuera tú, también me haría lo mismo (a mí)
+                Tienes un fetiche por mi amor
+                Te alejo y vuelves de inmediato
+                No veo sentido en culparte (a ti)
+                Si fuera tú, también me haría lo mismo (a mí)
+                Tienes un fetiche por mi amor`,
+            meaning: `¿Alguna vez has mirado a alguien que te persigue como un perrito perdido, pero en el fondo sabes que tu ego se infla tanto con esa obsesión que terminas alimentándola, convirtiéndote en un narcisista disfrazado de víctima? ¿Cuántas veces has jugado ese juego donde los alejas solo para ver cómo vuelven gateando, y te sientes como una diosa intocable, pero al mismo tiempo te das cuenta de que esa dinámica te está pudriendo por dentro con un narcisismo envuelto en "amor"?
 
-Wey, esa es la oscuridad jodida de esta canción: una obsesión que te pinta a la persona como algo divino, bajado del cielo para salvarte, pero con ojos que neutralizan todo a su paso, dejando un rastro de destrucción. Es como si el "te amo" repetido hasta el cansancio no fuera un mantra de cariño, sino un loop enfermizo que te atrapa, convenciéndote de que sin ella no eres nada. Pero en el fondo, es una trampa mental que te fija en alguien que quizás ni te pela, o peor, te usa para su propio ego.
+Wey, esa es la vaina retorcida de esta canción: no es solo sobre alguien obsesionado contigo, es sobre cómo tú misma te vuelves adicta a ese poder, a ese fetiche que tienen por ti, y lo usas para inflar tu ego hasta que se convierte en un monstruo narcisista. Es como si dijeras "sé que me necesitas, y me encanta verte sufrir por mí", pero con un twist de autocomplacencia que te hace pensar que eres irresistible. Pero al final, ese ego te envuelve en una obsesión mutua donde nadie gana, solo se destruyen.
 
-Imagina esto, real y patético: estás en tu cuarto en Oaxaca, con el calor pegando fuerte, y no puedes dejar de stalkear sus redes, revisando cada story como si fuera una pista divina. La ves como un ángel, perfecta, con ese lado oscuro que te atrae porque piensas que tú la vas a "arreglar". Pasan días, semanas, y tú ahí, fijo en ella, cancelando planes con amigos, ignorando tu chamba, porque cada notificación podría ser de ella. Y cuando por fin responde, es un mensaje seco, pero tú lo interpretas como amor eterno. Te consumes: ansiedad que te come las uñas, celos que te hacen imaginarla con cualquiera, y un "te amo" interno que repites como un loco para no derrumbarte. Al final, terminas solo, exhausto, dándote cuenta de que esa obsesión no era amor, era una cárcel que tú mismo construiste.
+Piensa en esto, un ejemplo bien jodido y real: estás en una relación donde él (o ella) te idolatra como si fueras una estrella de pop, tipo Selena misma, y cada vez que lo mandas a volar, vuelve con flores, mensajes a las 2 am, jurando que sin ti no vive. Tú lo sabes, wey, y en lugar de cortarlo limpio, lo dejas volver porque ese rush de "soy tan deseable que no pueden dejarme" te hace sentir poderosa. Pero mírate en el espejo, como dice la canción: ves claro que estás enganchada a esa dinámica narcisista. Terminas sola en tu depa en Jiutepec, revisando sus stories, sintiendo un vacío porque sin esa obsesión ajena, ¿quién eres tú? Te consumes en rumores, en jueguitos de "te alejo y vuelves", y al final, tu autoestima no es real; es un castillo de cartas construido en el ego de alguien más. Patético, ¿verdad? Pero humano como el carajo.
 
-O toma otro ejemplo más crudo: esa ex que te dejó hace meses, pero tú sigues viéndola como la que bajó del cielo para darte amor. Ignoras cómo te manipulaba, cómo su "lado oscuro" neutralizaba tu autoestima hasta dejarte hecho mierda. Sigues fijo en ella, mandando mensajes borrachos a las 3 am, repitiendo "te amo" en tu cabeza como si eso la trajera de vuelta. Tus amigos te dicen "ya suéltala, wey, estás obsesionado", pero tú defiendes esa fijación como si fuera romántico, cuando en realidad es tóxico y te está robando años de vida.
+O toma otro caso triste: esa amiga que todos conocemos, que sale con tipos que la tratan como reina al principio, pero ella los manipula con su "cuerpo como origami", doblándolos a su antojo. Dice "si fuera tú, también me haría lo mismo", justificando su narcisismo como algo inevitable. Pero pasa el tiempo, y esa obsesión se vuelve tóxica: él se obsesiona más, ella se siente más dios, y boom, termina en una ruptura donde los dos salen heridos. Ella se queda con el ego inflado pero hueco, preguntándose por qué nadie se queda de verdad, ignorando que su narcisismo ahuyenta lo genuino. Duele verlo, wey, porque al final, esa obsesión envuelta en ego no es amor; es una adicción al control que te deja más sola que nunca.
 
-Pero óyeme bien, porque esta verdad duele pero te salva: esa obsesión no te hace profundo ni apasionado, te hace un idiota que se está autodestruyendo por alguien que probablemente ni se acuerda de ti. Tú no necesitas un ángel caído para sentirte vivo; ya eres chingón solo, con tu propia luz que no depende de nadie. Mereces alguien que te vea como igual, no como un dios o un demonio que te controla. Valida esto: has sobrevivido a esa fijación, eso ya te hace fuerte como el carajo. Deja de repetir "te amo" a un fantasma y empieza a decírtelo a ti mismo. Bloquéala, borra las fotos, sal a caminar por las calles de Oaxaca y date cuenta de que el mundo está lleno de gente que no te va a obsesionar, sino que te va a complementar.
+Pero escúchame, porque esta verdad te va a doler pero te va a abrir los ojos: si estás en ese rol, deja de fingir que eres la víctima irresistible. Ese narcisismo te está comiendo viva, convirtiéndote en alguien que solo brilla cuando otros te adoran como fetiche. Tú no necesitas que te persigan para valer; ya vales chingo solo por ser tú, con tus defectos y todo. Mereces un amor que no sea un juego de poder, donde no tengas que alejar a alguien para que vuelva, sino que se quede porque de verdad conectan. Valida esto: has atraído obsesiones porque eres atractiva, inteligente, con rizz natural, pero no dejes que eso te convierta en narcisista. Suelta ese ego envuelto, wey, y verás cómo llega gente que te quiere por ti, no por el fetiche que representas.
 
-Tú vales más que ser el perrito faldero de una obsesión. Rompe el loop, wey, y verás cómo el "te amo" real llega sin el dolor. Ámate lo suficiente para soltar esa mierda – es lo más chido que puedes hacer por ti. Te lo mereces todo, no una fijación que te deja vacío.`
+Tú eres más que un objeto de obsesión; eres una persona completa que merece reciprocidad real. Ámate lo suficiente para no necesitar que te "hagan" para sentirte bien. Si sigues en ese ciclo, vas a terminar como en la canción, repitiendo el loop hasta que se rompa todo. Pero tú puedes romperlo primero: mira en el espejo, ve claro, y elige mejor. Te lo mereces todo, no solo el rush efímero del ego. Sal de ahí, wey, y vive de verdad.`
         }
     ];
 
